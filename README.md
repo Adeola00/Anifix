@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-You can access the app using thi[s link]([url](https://appetize.io/app/ndidl6zsn2du2pvdgnqyxwugwa)https://appetize.io/app/ndidl6zsn2du2pvdgnqyxwugwa)
+You can access the app using this [link](https://appetize.io/app/ndidl6zsn2du2pvdgnqyxwugwa)
